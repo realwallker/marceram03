@@ -19,12 +19,6 @@ Me gusta aprender haciendo, experimentar con proyectos web y explorar nuevas her
 
 ---
 
-## 📊 Estadísticas de GitHub
-> *(Aún estás comenzando, así que te dejo un formato básico para cuando empieces a tener actividad)*
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marceram03&show_icons=true&theme=tokyonight&hide_border=true)
-
----
 
 ## 📫 Conecta conmigo
 - 📷 [Instagram](https://instagram.com/marceram03)  
